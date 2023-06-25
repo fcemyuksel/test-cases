@@ -7,3 +7,6 @@ f
 g
 h
 12345
+defne
+elif
+zeynep
