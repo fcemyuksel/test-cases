@@ -10,3 +10,5 @@ h
 defne
 elif
 zeynep
+defne iphone aldı
+kullanmaya basladi
